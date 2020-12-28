@@ -1,4 +1,3 @@
----
 applications:
   - name: portal-api
     memory: 2G
@@ -51,4 +50,3 @@ applications:
 
       ## monitoring
       monitoring_api_url: http://<MONITORING_API_URL>
-
