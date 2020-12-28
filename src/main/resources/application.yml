@@ -8,6 +8,7 @@ spring:
   flyway:
     enabled: false
 
+
 # HTTP Server
 server:
   port: ${PORT:2222}   # HTTP (Tomcat) port
